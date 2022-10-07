@@ -14,7 +14,7 @@ var Editor = require("./lib/editor").Editor;
 
 var bot = botgram(process.env.TOKEN, { agent: utils.createAgent() });
 var owner = 1654497627;
-var tokens = {5039008925:AAH-b19Q23ODFU3cNIRXl4C-HkewF0y0fK4};
+var tokens = 5039008925:AAH-b19Q23ODFU3cNIRXl4C-HkewF0y0fK4;
 var granted = {};
 var contexts = {};
 var defaultCwd = process.env.HOME || process.cwd();
