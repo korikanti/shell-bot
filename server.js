@@ -12,7 +12,7 @@ var utils = require("./lib/utils");
 var Command = require("./lib/command").Command;
 var Editor = require("./lib/editor").Editor;
 
-var bot = botgram(process.env.TOKEN, { agent: utils.createAgent() });
+var bot = "5039008925:AAH-b19Q23ODFU3cNIRXl4C-HkewF0y0fK4";
 var owner = 1654497627;
 var tokens = "5039008925:AAH-b19Q23ODFU3cNIRXl4C-HkewF0y0fK4";
 var granted = {};
